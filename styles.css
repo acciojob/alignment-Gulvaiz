@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+table{
+	margin-bottom: 20px
+}
+
+.middle{
+	border:1px solid black;
+	border-spacing: 1px;
+	width:80%
+}
+
+.center{
+	text-align:center;
+}
+
+.right{
+	text-align:right;
+}
+
+td{
+	border:1px solid black;
+	padding:1px;
+}
